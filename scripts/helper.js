@@ -220,7 +220,7 @@ function about(){
             </div>
 
             <!--About me: using GRID & FLEX-->
-            <div class="container-fluid shadow-lg text-light row">
+            <div class="container-fluid shadow-lg text-light row" style="font-size: 2vmin;">
 
                 <!--Column 1:-->
                 <div class="text-center col-md-2">
