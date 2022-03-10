@@ -58,7 +58,7 @@ class SceneManager{
 
     generateBackground(){
         const loader = new THREE.TextureLoader();
-        const bgTexture = loader.load('../assets/2k_stars.jpg');
+        const bgTexture = loader.load('./assets/2k_stars.jpg');
         this.#scene.background = bgTexture;
     }
 
