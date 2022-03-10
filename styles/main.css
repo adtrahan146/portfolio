@@ -1,0 +1,108 @@
+body { 
+    margin: 0; 
+}
+html, body{
+    overflow: clip;
+    display: flex;
+    background-color: transparent;
+}
+
+canvas { display: block; width: 100%; height: 100%;}
+
+input, textarea{
+    opacity: 0.4;
+}
+
+.opaque-4{
+    opacity: 0.4;
+    color: rgba(white, white, white, 1);
+}
+
+/* Stubbed need help */
+.opaque-regular{
+    color: rgba(white, white, white, 1);
+    opacity: 1;
+}
+
+.blog-gradient{
+    background: rgba(255,255,255);
+    background: radial-gradient(circle, rgba(0,0,0,0.8463585263206845) 0%, rgba(0,0,0,0) 100%);
+    /* mask-image: radial-gradient(circle, rgba(0,0,0,0.8463585263206845) 0%, rgba(0,0,0,0) 100%); */
+}
+.blog-img{
+    height: 400px;
+    width: 400px;
+    -webkit-mask-image: radial-gradient(circle, rgba(0,0,0,0.8463585263206845) 0%, rgba(0,0,0,0) 100%);
+}
+.alex{
+    background: rgb(0,0,0);
+    -webkit-mask-image: linear-gradient(90deg, rgba(0,0,0,0.22569639882024495) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,0.326560952134366) 100%);
+}
+
+.skill-img{
+    width: 50px;
+    height: 125px;
+}
+
+/* Fix blog carousel */
+.my-carousel-control-next, .my-carousel-control-prev{
+    position: absolute;
+    /* top: 0;
+    bottom: 0; */
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    color: #fff;
+    text-align: center;
+    opacity: .5;
+    transition: opacity .15s ease;
+}
+.my-carousel-control-next{
+    right:0;
+}
+
+.info{
+    position: absolute;
+    display: block;
+    /* background-color: transparent; */
+	text-align: center;
+	z-index: 100;
+}
+.red-hat-mono{
+    font-family: 'Red Hat Mono', monospace;
+}
+.major-mono-display{
+    font-family: 'Major Mono Display', monospace;
+}
+
+.container{
+    position: absolute;
+}
+
+.sizeHer{
+    width: 18rem;
+}
+.indent{
+    text-indent: 15%;
+}
+
+.img{
+    /* width: 50px;
+    height: 50px; */
+}
+
+#myThumb{
+    border-radius: 60%;  /* Rounded border */
+    border: 1px solid black;
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+}
+
+#my-triangle{
+    font-size: auto;
+}
+/* #larger-triangle{
+    font-size: 65px;
+} */
