@@ -1,4 +1,4 @@
-import * as THREE from './node_modules/three/build/three.js';
+import * as THREE from './scripts/three.js';
 import {OrbitControls} from './scripts/OrbitControls.js';
 
 const sceneManager = new SceneManager();
