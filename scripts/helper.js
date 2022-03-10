@@ -333,7 +333,7 @@ function code(){
                 <div class="row mx-auto">
 
                     <!--Card 1-->
-                    <div class="col-auto mb-5 d-flex">
+                    <div class="col-6 my-5 d-flex">
                         <div class="card bg-dark text-center" style="width: 18rem;">
                             <!--Card header-->
                             <div class="card-header bg-transparent">
@@ -357,7 +357,7 @@ function code(){
                     </div>
 
                     <!--Card 2-->
-                    <div class="col-auto mb-5 d-flex">
+                    <div class="col-6 my-5 d-flex">
                         <div class="card bg-dark text-center" style="width: 18rem;">
                             <!--Card header-->
                             <div class="card-header bg-transparent">
