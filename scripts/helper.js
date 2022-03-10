@@ -128,7 +128,7 @@ function blog(){
                 <!--Slide 1:-->
                 <div id="slide-1" class="carousel-item active">
                     <div class="blog-gradient">
-                        <img class="blog-img" src="../assets/uno.jpg">
+                        <img class="blog-img" src="./assets/uno.jpg">
                     </div>
                     <div class="carousel-caption">
                         <h5> Portfolio Website Devlog </h5>
@@ -142,7 +142,7 @@ function blog(){
                 <!--Slide 2:-->
                 <div id="slide-2" class="carousel-item">
                     <div class="blog-gradient justify-content-center">
-                        <img class="blog-img" src="../assets/imperial-flag.jpg">
+                        <img class="blog-img" src="./assets/imperial-flag.jpg">
                     </div>
                     <div class="carousel-caption">
                         <h5> Events and Impacts of the Russian Revolution </h5>
@@ -225,7 +225,7 @@ function about(){
                 <!--Column 1:-->
                 <div class="text-center col-md-2">
                     <h4 class="lead"> Alex Trahan </h4>
-                    <img id="myThumb" class="img-thumbnail w-50" src="../assets/100_0541.JPG">
+                    <img id="myThumb" class="img-thumbnail w-50" src="./assets/100_0541.JPG">
                     <div class="d-flex justify-content-center gap-4 m-4">
                         <a href="#" class="text-white"> <i class="bi bi-twitter"></i> </a>
                         <a href="#" class="text-white"> <i class="bi bi-linkedin"></i> </a>
@@ -254,7 +254,7 @@ function about(){
                             I'm also a human, so feel free to contact! </p>
                         </div>
                         <div class="col-md-4 d-md-block d-none">
-                            <img class="img-fluid alex" src="../assets/profile-image.png">
+                            <img class="img-fluid alex" src="./assets/profile-image.png">
                         </div>
                     </div>
 
@@ -262,16 +262,16 @@ function about(){
                     <hr>
                     <h4 class="display-4">Skills:</h4>
                     <div class="row row-col-2 d-flex">
-                        <img class="col-2 img" src='../assets/icon-java.png'>
-                        <img class="col-2 img" src='../assets/icon-js.png'>
-                        <img class="col-2 img" src='../assets/icon-html5.png'>
-                        <img class="col-2 img" src='../assets/icon-css3.png'>
-                        <img class="col-2 img" src='../assets/icon-react.png'>
-                        <img class="col-2 img" src='../assets/icon-mongodb.png'>
-                        <img class="col-2 img" src='../assets/icon-node.webp'>
-                        <img class="col-2 img" src='../assets/icon-npm.png'>
-                        <img class="col-2 img" src='../assets/icon-passport.png'>
-                        <img class="col-2 img" src='../assets/icon-socketio.png'>
+                        <img class="col-2 img" src='./assets/icon-java.png'>
+                        <img class="col-2 img" src='./assets/icon-js.png'>
+                        <img class="col-2 img" src='./assets/icon-html5.png'>
+                        <img class="col-2 img" src='./assets/icon-css3.png'>
+                        <img class="col-2 img" src='./assets/icon-react.png'>
+                        <img class="col-2 img" src='./assets/icon-mongodb.png'>
+                        <img class="col-2 img" src='./assets/icon-node.webp'>
+                        <img class="col-2 img" src='./assets/icon-npm.png'>
+                        <img class="col-2 img" src='./assets/icon-passport.png'>
+                        <img class="col-2 img" src='./assets/icon-socketio.png'>
                     </div>
                     
                 </div>
@@ -337,7 +337,7 @@ function code(){
                         <div class="card bg-dark text-center" style="width: 18rem;">
                             <!--Card header-->
                             <div class="card-header bg-transparent">
-                                <img class="img-thumbnail" src="/assets/waremp.png">
+                                <img class="img-thumbnail" src="./assets/waremp.png">
                             </div>
                             <!--Card body-->
                             <div class="card-body">
@@ -361,7 +361,7 @@ function code(){
                         <div class="card bg-dark text-center" style="width: 18rem;">
                             <!--Card header-->
                             <div class="card-header bg-transparent">
-                                <img class="img-thumbnail" src="/assets/icon-java.png">
+                                <img class="img-thumbnail" src="./assets/icon-java.png">
                             </div>
                             <!--Card body-->
                             <div class="card-body opaque-regular">
