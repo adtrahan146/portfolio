@@ -263,6 +263,8 @@ function about(){
                     <h4 class="display-4">Skills:</h4>
                     <div class="row row-col-2 d-flex">
                         <img class="col-2 img" src='./assets/icon-java.png'>
+                        <img class="col-2 img" src='./assets/c-language.png'>
+                        <img class="col-2 img" src='./assets/C-Sharp.png'>
                         <img class="col-2 img" src='./assets/icon-js.png'>
                         <img class="col-2 img" src='./assets/icon-html5.png'>
                         <img class="col-2 img" src='./assets/icon-css3.png'>
