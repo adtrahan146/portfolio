@@ -351,7 +351,7 @@ function code(){
                             <!--Card footer-->
                             <div class="card-footer opaque-regular">
                                 <small class="text-muted"> HTML, CSS </small>
-                                <a href="https://adtrahan146.github.io/war-emp/">
+                                <a href="https://github.com/adtrahan146/war-emp/tree/master">
                                     <button class="btn btn-secondary float-end"> See More </button>
                                 </a>
                             </div>
